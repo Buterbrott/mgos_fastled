@@ -6,6 +6,8 @@ version: 1.0.0
 sources:
   - src
   - FastLED/src
+includes:
+  - include
 
 filesystem:
   - fs
